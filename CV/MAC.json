@@ -11,8 +11,8 @@
       "title": "Full Stack Developer | PHP | Drupal | Laravel | React |React Native",
       "description": "Skillful Software Developer. Equipped with a diverse and promising skill-set. Proficient in various platforms y languages (PHP, Javascript, Java,). Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a team.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/92113f62-6447-4c26-940f-68fdf8daeea9_linkedin-photo-15869.linkedin-photo-15869",
-        "alt": "24/04/16/92113f62-6447-4c26-940f-68fdf8daeea9_linkedin-photo-15869.linkedin-photo-15869"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/cbf71217-01f5-48ee-aef9-11fc5dc6049d_linkedin-photo-15869.linkedin-photo-15869",
+        "alt": "24/04/16/cbf71217-01f5-48ee-aef9-11fc5dc6049d_linkedin-photo-15869.linkedin-photo-15869"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJtUx6DwdJzYgRGqQQkVL3jHk)",
@@ -23,6 +23,111 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/jhbosch"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BITS Americas S.A.S",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/1d22f715-773e-4a0a-8eeb-fd4b44c6d20d_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/1d22f715-773e-4a0a-8eeb-fd4b44c6d20d_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lider Técnico",
+            "startDate": "2022-04-01",
+            "finishDate": "2024-01-31",
+            "challenges": [
+              {
+                "description": "- Jenkins\n- Drupal\n- Lit Element\n- AngularJS\n- Scrum"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BITS Americas S.A.S",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/b237dde1-bb5c-4879-b05c-36dd1bdd82af_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/b237dde1-bb5c-4879-b05c-36dd1bdd82af_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de back-end",
+            "startDate": "2021-10-01",
+            "finishDate": "2022-04-30",
+            "challenges": [
+              {
+                "description": "- PHP\n- Drupal\n- API"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IT Oeste - Software a medida",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/1183d6b6-11af-4d4a-8088-a23752027dee_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/1183d6b6-11af-4d4a-8088-a23752027dee_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "Development and maintenance of applications using:\n- Laravel\n- React Native\n- Expo\n- ReactJs\n- MySql\n- Git\n- Trello"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Datys"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2018-12-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "- Asp.Net C#\n- React Native\n- Drupal\n- Wordpress\n- Oracle\n- MySql\n- Angular\n- Keycloack\n- Git"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Calarix Consulting",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/3175f669-fcc1-424a-8927-09995e887adf_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/3175f669-fcc1-424a-8927-09995e887adf_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Programador full stack",
+            "startDate": "2014-07-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "- Java\n- AngularJS\n- Play Framework\n- React Native\n- JQuery\n- Symfony\n- Git\n- GitFlow"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
