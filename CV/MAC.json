@@ -1,0 +1,305 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesús",
+      "surnames": "Hernández Bosch",
+      "title": "Full Stack Developer | Lider Técnico en BITS Americas S.A.S",
+      "description": "Skillful Software Developer. Equipped with a diverse and promising skill-set. Proficient in various platforms and languages (PHP, Javascript, Java,). Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a team.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/82f79588-9f24-494e-8cbc-7d27e8137752_linkedin-photo-15869.linkedin-photo-15869",
+        "alt": "23/11/08/82f79588-9f24-494e-8cbc-7d27e8137752_linkedin-photo-15869.linkedin-photo-15869"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJtUx6DwdJzYgRGqQQkVL3jHk)",
+        "country": "Cuba"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jhbosch/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BITS Americas S.A.S",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/fc7a9892-b589-44bc-b1c6-d09de6205e4b_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "23/11/08/fc7a9892-b589-44bc-b1c6-d09de6205e4b_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lider Técnico",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Skills: Trabajo en remoto · Control de versiones · Arquitectura de software · Dirección técnica · Comunicación · Liderazgo · Drupal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BITS Americas S.A.S",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/15b17649-ee32-4962-bf9c-2f8af9245ba9_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "23/11/08/15b17649-ee32-4962-bf9c-2f8af9245ba9_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de back-end",
+            "startDate": "2021-10-01",
+            "challenges": [
+              {
+                "description": "Skills: Trabajo en remoto · Control de versiones · Drupal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IT Oeste - Software a medida",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/08/5a0f2228-3580-45ad-a2be-8c0af4c302f1_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "23/11/08/5a0f2228-3580-45ad-a2be-8c0af4c302f1_linkedin-photo-15869.linkedin-photo-15869"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "Software developer using:\n-Laravel\n-React Native\n-Expo\n-ReactJs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Datys"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2018-12-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "Skills: Control de versiones · Drupal"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jhbosch/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "jesus.hbosch@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Drupal",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Laravel",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "React Native",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me motiva el reto constante y el trabajo ágil, siempre es bienvenido un team donde fluya entre compañeros el conocimiento y una buena actitud laboral y personal. EL apoyo a los nuevos compañeros en su crecimiento lo veo como una manera de fortalecer el team por lo que creo indispensable esta práctica"
+  }
+}
