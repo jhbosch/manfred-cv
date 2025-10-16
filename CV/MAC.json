@@ -11,8 +11,8 @@
       "title": "Full Stack Developer | PHP | Drupal | Laravel | React |React Native",
       "description": "Skillful Software Developer. Equipped with a diverse and promising skill-set. Proficient in various platforms y languages (PHP, Javascript, Java,). Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a team.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/b5f53520-7e08-410d-8804-93b52ba71691_linkedin-photo-15869.linkedin-photo-15869",
-        "alt": "24/04/16/b5f53520-7e08-410d-8804-93b52ba71691_linkedin-photo-15869.linkedin-photo-15869"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/4f3d9824-8337-41e1-9be7-56728988aa8f_linkedin-photo-15869.linkedin-photo-15869",
+        "alt": "24/04/16/4f3d9824-8337-41e1-9be7-56728988aa8f_linkedin-photo-15869.linkedin-photo-15869"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJtUx6DwdJzYgRGqQQkVL3jHk)",
@@ -32,8 +32,8 @@
         "organization": {
           "name": "BITS Americas S.A.S",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/3b7016c5-69e0-46c5-9172-6bacadb66ce8_linkedin-photo-15869.linkedin-photo-15869",
-            "alt": "24/04/16/3b7016c5-69e0-46c5-9172-6bacadb66ce8_linkedin-photo-15869.linkedin-photo-15869"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/4d8fbfce-4e74-4229-8ea3-1e8bcf6009ba_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/4d8fbfce-4e74-4229-8ea3-1e8bcf6009ba_linkedin-photo-15869.linkedin-photo-15869"
           }
         },
         "roles": [
@@ -53,8 +53,8 @@
         "organization": {
           "name": "BITS Americas S.A.S",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/4ef2f2fb-8390-4bda-aa50-14f4949a3c38_linkedin-photo-15869.linkedin-photo-15869",
-            "alt": "24/04/16/4ef2f2fb-8390-4bda-aa50-14f4949a3c38_linkedin-photo-15869.linkedin-photo-15869"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/3107d081-9d29-4ad1-ab55-c56bb30812a3_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/3107d081-9d29-4ad1-ab55-c56bb30812a3_linkedin-photo-15869.linkedin-photo-15869"
           }
         },
         "roles": [
@@ -74,8 +74,8 @@
         "organization": {
           "name": "IT Oeste - Software a medida",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/5914efe4-3741-4fd3-b9ad-d18030549395_linkedin-photo-15869.linkedin-photo-15869",
-            "alt": "24/04/16/5914efe4-3741-4fd3-b9ad-d18030549395_linkedin-photo-15869.linkedin-photo-15869"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/bf542c75-8097-4ba1-90a5-cf653264d29b_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/bf542c75-8097-4ba1-90a5-cf653264d29b_linkedin-photo-15869.linkedin-photo-15869"
           }
         },
         "roles": [
@@ -112,8 +112,8 @@
         "organization": {
           "name": "Calarix Consulting",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/d2847eb4-e192-4037-b528-544918fc6ab0_linkedin-photo-15869.linkedin-photo-15869",
-            "alt": "24/04/16/d2847eb4-e192-4037-b528-544918fc6ab0_linkedin-photo-15869.linkedin-photo-15869"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/0ba66660-3123-439a-850a-cc15f07aa4bc_linkedin-photo-15869.linkedin-photo-15869",
+            "alt": "24/04/16/0ba66660-3123-439a-850a-cc15f07aa4bc_linkedin-photo-15869.linkedin-photo-15869"
           }
         },
         "roles": [
@@ -300,9 +300,6 @@
           "URL": "https://linkedin.com/in/jhbosch",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "jesus.hbosch@gmail.com"
       ]
     },
     "preferences": {
@@ -358,7 +355,12 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
